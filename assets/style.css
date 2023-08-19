@@ -67,7 +67,7 @@ body {
   width: 100%;
   height: 230px;
   margin-top: 100px;
-  color: #64B6AC ;
+  color: #4f29b9 ;
   background: #FAD4C0;
   transform: skewY(-5deg);
 }
@@ -113,7 +113,7 @@ body {
   background-color: #FAD4C0;
   margin: 5% auto;
   padding: 20px;
-  color: #64B6AC ;
+  color:#4f29b9;
   border-radius: 20px;
 }
 
